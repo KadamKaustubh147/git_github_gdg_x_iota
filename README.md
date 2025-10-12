@@ -145,7 +145,7 @@ Merging is about bringing changes from one branch to another.
 
 Fast forward and rebase  --> no merge commit
 
-Three way merge --> merge commit hai
+Three way merge --> merge commit will be created
 
 ### Fast Forward merge
 
