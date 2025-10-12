@@ -149,7 +149,7 @@ Three way merge --> merge commit hai
 
 ### Fast Forward merge
 
-![./Images/image.png](image.png)
+<img src="./Images/image.png">
 
 This is the easiest merge.
 
@@ -171,7 +171,7 @@ bug-fix merged into the main branch
 
 ### 3-way Merge
 
-![./Images/image.png](image%201.png)
+<img src="./Images/image 1.png">
 
 There is a merge commit.
 
@@ -194,7 +194,7 @@ git config --global core.editor "code --wait"
 
 Note for organisers: Explain this with hands-on
 
-![./Images/image.png](image%202.png)
+<img src="./Images/image 2.png">
 
 Either solve merge conflicts directly through VSCODE or remove do it manually.
 
@@ -214,7 +214,7 @@ In the end remove these markers and redundant code.
 
 ## Rebase
 
-![./Images/image.png](image%203.png)
+<img src="./Images/image 3.png">
 
 Git rebase is a powerful Git feature used to change the base of a branch. It effectively allows you to move a branch to a new starting point, usually a different commit, by “replaying” the commits from the original base onto the new base. This can be useful for keeping a cleaner, linear project history.
 
@@ -407,5 +407,6 @@ git pull origin main
 
 ```
 
-## Github student developer pack-[https://education.github.com/pack](https://education.github.com/pack)
+## Github Student Developer pack
 
+[https://education.github.com/pack](https://education.github.com/pack)
