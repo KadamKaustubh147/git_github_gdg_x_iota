@@ -226,7 +226,7 @@ git rebase main
 
 ```
 
-These commands set the head of the feature branch to main.
+These commands set the head of the feature branch to main branch's latest commit.
 
 ### Resolving conflicts in rebase
 
@@ -296,7 +296,7 @@ It’s commonly used to exclude files that are unnecessary or sensitive, such as
 
 By using a `.gitignore` file, you keep your repository clean, secure, and free from files that don’t belong in version control.
 
-## Day 3
+
 
 ### Cloning a repo
 
