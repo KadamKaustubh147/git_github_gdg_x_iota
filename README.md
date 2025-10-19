@@ -1,6 +1,6 @@
 # Git & GitHub Session-2025
 
-# Day1-
+# Day 1
 
 ## **Introduction to Version Control Systems (VCS)**
 
@@ -81,6 +81,9 @@ Shows the commit history of the repository. (git log —oneline)
 ```
 
 Git untracks the file and also removes it from the git repository/directory.
+
+## **What is the need of staging area(git add)?**
+The staging area lets you choose exactly which changes are included in the next commit. It gives control to decide exactly what goes into that commit (checkpoint).
 
 ## **How to Write Good Commit Messages**
 
@@ -263,7 +266,7 @@ git rebase --abort
 
 This restores your branch to the state before starting the rebase.
 
-# Day 3-
+# Day 3
 
 ## [**Generating a new SSH key**](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#generating-a-new-ssh-key)
 
